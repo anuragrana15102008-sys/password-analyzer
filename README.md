@@ -8,7 +8,7 @@ A modern **Password Strength Analyzer** with real-time feedback, animations, and
 
 ## 🚀 Live Demo
 
-👉 https://anuragrana15102008.github.io/password-analyzer/
+👉 https://anuragrana15102008.github.io/password-analyzer/index.html
 ---
 
 ## ✨ Features
