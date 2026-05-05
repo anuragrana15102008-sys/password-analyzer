@@ -31,7 +31,7 @@ A modern **Password Strength Analyzer** with real-time feedback, animations, and
 
 ## 📸 Preview.png
 
-(Add a screenshot here)
+
 
 <img width="1466" height="1001" alt="password" src="https://github.com/user-attachments/assets/bb5e31a2-9fbd-43eb-815d-46569ad17720" />
 
