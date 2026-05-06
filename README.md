@@ -46,3 +46,8 @@ A modern **Password Strength Analyzer** with real-time feedback, animations, and
 ## ⭐ Show your support
 
 Give a ⭐ if you like this project!
+
+
+
+For Reviews:
+https://anuragrana15102008-sys.github.io/password-analyzer/reviews.html
